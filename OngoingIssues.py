@@ -8,8 +8,9 @@ import csv
 
 
 ORG_EMAIL   = "@gmail.com"
-FROM_EMAIL  = "issuesongoing" + ORG_EMAIL
-FROM_PWD    = "IAMTHEWALRUS"
+#omitted for security
+#FROM_EMAIL  = "" + ORG_EMAIL
+#FROM_PWD    = ""
 SMTP_SERVER = "imap.gmail.com"
 SMTP_PORT   = 993
 
